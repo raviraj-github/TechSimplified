@@ -37,3 +37,11 @@ replay_pid*
 /.vscode/
 /.project
 /.classpath
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
