@@ -15,7 +15,13 @@ Stay updated with the latest insights and announcements by following us on Twitt
 - 🐦 [Twitter](https://twitter.com/imRRaj_Official)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/ravi-shankar-raj/)
 
+
+### Enjoying the content and code in this repository? Give it a star! 🌟
+
+If you find the resources provided here helpful and valuable, consider showing your support by giving this repository a star. Your star motivates us to continue sharing educational content and practical examples.
+
+To give a star, simply click on the ⭐️ button at the top right corner of this repository. Your support is greatly appreciated! Thank you for being a part of Tech Simplified By Ravi! 🚀
+
 Embark on a rewarding journey of knowledge and practical expertise with Tech Simplified By Ravi! 🚀
 
-
-We believe in Free #EducationForAll !!
+### We believe in Free #EducationForAll !!
