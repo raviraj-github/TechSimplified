@@ -7,11 +7,20 @@ At Tech Simplified By Ravi, we combine technology education with real-world expe
 
 🔥 Join our YouTube channel for expert tips, tricks, and insights from a seasoned 12-year veteran Solution Architect. We cover a wide range of topics, including Java, Spring Boot, Microservices, System Design, Cloud Native, Docker, Kubernetes, Web3, and AWS. Level up your tech skills with us! Subscribe now to [TechSimplifiedByRavi](https://www.youtube.com/@TechSimplifiedByRavi)! 🔥
 
-### Code Repository 📂
+## Code Repository 📂
 
-This repository houses all the code used in our YouTube video demonstrations. Feel free to explore and learn from our practical examples.
+Welcome to our Code Repository! Here, you will find all the code used in our YouTube video demonstrations. We invite you to freely explore and learn from our practical examples.
 
-### Stay Connected! 📢
+| Topic          | Repository Link                                     |
+| -------------- | --------------------------------------------------- |
+| Java           | [Java Repository](https://github.com/raviraj-github/TechSimplified/tree/main/java)               |
+| Microservice   | [Microservice Repository](https://github.com/raviraj-github/TechSimplified/tree/main/microservice) |
+| System Design  | [System Design Repository](https://github.com/raviraj-github/TechSimplified/tree/main/system-design) |
+| CloudNative    | [CloudNative Repository](https://github.com/raviraj-github/TechSimplified/tree/main/java/cloud-native)   |
+
+We hope you find these repositories valuable for your learning journey. Happy coding! 🚀🎉
+
+## Stay Connected! 📢
 
 Stay updated with the latest insights and announcements by following us on Twitter and LinkedIn.
 
@@ -19,7 +28,7 @@ Stay updated with the latest insights and announcements by following us on Twitt
 - 🔗 [LinkedIn](https://www.linkedin.com/in/ravi-shankar-raj/)
 
 
-### Enjoying the content and code in this repository? Give it a star! 🌟
+##  Enjoying the content and code in this repository? Give it a star! 🌟
 
 If you find the resources provided here helpful and valuable, consider showing your support by giving this repository a star. Your star motivates us to continue sharing educational content and practical examples.
 
@@ -27,7 +36,7 @@ To give a star, simply click on the ⭐️ button at the top right corner of thi
 
 Embark on a rewarding journey of knowledge and practical expertise with Tech Simplified By Ravi! 🚀
 
-## License
+##  License
 
 MIT
 
