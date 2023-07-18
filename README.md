@@ -2,6 +2,9 @@
 
 At Tech Simplified By Ravi, we combine technology education with real-world experience to empower your technical journey! 🎓
 
+![image](https://github.com/raviraj-github/TechSimplified/assets/11041028/04aa04f6-bd9c-4174-9910-eef51f7fd072)
+
+
 🔥 Join our YouTube channel for expert tips, tricks, and insights from a seasoned 12-year veteran Solution Architect. We cover a wide range of topics, including Java, Spring Boot, Microservices, System Design, Cloud Native, Docker, Kubernetes, Web3, and AWS. Level up your tech skills with us! Subscribe now to [TechSimplifiedByRavi](https://www.youtube.com/@TechSimplifiedByRavi)! 🔥
 
 ### Code Repository 📂
