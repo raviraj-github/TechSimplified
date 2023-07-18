@@ -24,4 +24,10 @@ To give a star, simply click on the ⭐️ button at the top right corner of thi
 
 Embark on a rewarding journey of knowledge and practical expertise with Tech Simplified By Ravi! 🚀
 
-### We believe in Free #EducationForAll !!
+## License
+
+MIT
+
+**Free Software, Hell Yeah!**
+
+**We believe in Free #EducationForAll !!**
